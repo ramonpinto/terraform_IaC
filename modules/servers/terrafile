@@ -1,0 +1,3 @@
+Generic:
+  souce: "git@github.com:ramonpinto/terraform_IaC.git"
+  version: "master"
